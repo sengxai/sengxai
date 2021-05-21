@@ -1,10 +1,10 @@
 <h1>Hello Everyone!</h1>
 
-My name is Sengxai Yang and I am a senior graduating this Spring 2021 from UWEC with a degree in Software Engineering.
-I am currently an Offense & Information Security Analyst for Learning & Technology Services at UWEC.
+My name is Sengxai Yang I'm a graduate from UWEC with a degree in Computer Science - Software Engineering.
+I have experiences within the cyber security field working with a SIEM based on ELK Stack.
+I also have experiences as an information security analyst working with vulnerability reconnaissance, penetration testings (web-apps, mobile, internal/external networks, physical IDFs).
 
-What I do I've done on the job is conduct pentests, evaluate security infrastructures, and remediate these security flaws.
-I am interested in software developing such as web-apps, app seecurity, red-team, and blue team.
+I have a passion for the growing and changing cyber security industry and I also like to develope software/apps that I am able to use or make life more easier.
 
 In my repository are some projects of what I've done during my undergrad.
 
