@@ -1,12 +1,12 @@
 <h1>Hello Everyone!</h1>
 
 My name is Sengxai Yang I'm a graduate from UWEC with a degree in Computer Science - Software Engineering.
-I have experiences within the cyber security field working with a SIEM based on ELK Stack.
-I also have experiences as an information security analyst working with vulnerability reconnaissance, penetration testings (web-apps, mobile, internal/external networks, physical IDFs).
+I have experiences within both offensive and defensive side of cyber security.
+I am currently learning the Spring Framework of how it makes building applications easier, quicker, and more secure.
 
-I have a passion for the growing and changing cyber security industry and I also like to develope software/apps that I am able to use or make life more easier.
+I have a passion for wanting to learn many tools, software, and tech so I can make life more easier through code.
 
-In my repository are some projects of what I've done during my undergrad.
+In my repository are some projects of what I've done during my undergrad and other projects that I am working on.
 
 <!---
 sengxai/sengxai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
