@@ -1,6 +1,6 @@
 <h1>Hello Everyone!</h1>
 
-My name is Sengxai Yang I'm a graduate from UWEC with a degree in Computer Science - Software Engineering.
+My name is Seng Yang I'm a graduate from UWEC with a degree in Computer Science - Software Engineering.
 I have experiences within both offensive and defensive side of cyber security.
 I am currently learning the Spring Framework of how it makes building applications easier, quicker, and more secure.
 
